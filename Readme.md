@@ -1,4 +1,4 @@
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/c573c08d-8f1a-4fd7-847a-9d25f1ce871a)This project was fabriacated in the SIEPIC ELEC413 ebl run, files were named after my edx username.<br>
+This project was fabriacated in the SIEPIC ELEC413 ebl run, files were named after my edx username. The y branches, grating couplers, waveguide tapers, and bragg gratings were imported as parameterized components from the SIEPIC EBL Klayout library<br>
 **OSA spectra are currently being analyzed. Designs were simulated in Lumerical interconnect to ensure transmission peaks won't be below the OSA noise floor transmission peak shifts would be observable**<br>
 
 
@@ -15,9 +15,7 @@ These are the contents of the klayout design files
 
 **TEST SETUP**
 Grating couplers are placed precisely 127μm apart from one another to allow for automated testing with fiber arrays. 1310nm light is injected into the middle grating coupler, then transmission is measured on the top and reflection is measured on the bottom. This allows for transmission, reflection, and loss of the cavity to be measured with an optical spectrum analyzer
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/d66426e7-3b5a-4d62-99b5-6e803a0c9559)
-
-
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/e3e46e81-c16b-4841-918a-f85e7ef44bc1)
 
 
 
