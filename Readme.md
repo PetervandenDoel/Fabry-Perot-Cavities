@@ -56,7 +56,7 @@ This design was made simply to capture an SEM image of a funny drawing and becau
 Design parameters 
 
 
-Cavity length 3851u	 <br>	Bragg grating 272n <br> period	# periods 20 <br>
+Cavity length 3851u	 <br>	Bragg grating period 272n <br> 	# periods 20 <br>
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/87eb197e-1ead-4209-8638-a5adbd67f348)
 
