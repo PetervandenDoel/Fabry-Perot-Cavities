@@ -23,9 +23,7 @@ Reflections are channeled back into the reflection grating coupler by a Y branch
 
 
 
-
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/e2748549-780d-4a5c-a020-f49556d65818)
-
+![image](https://github.com/PetervandenDoel/Silicon-Fabry-Perot-Filters/assets/73015873/d5230a1b-658f-497c-896f-25e0a9689b43)
 
 **Individual designs**  
 
