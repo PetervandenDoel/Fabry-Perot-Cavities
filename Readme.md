@@ -99,31 +99,12 @@ Design parameters
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/45c6f4bb-ca50-4d9d-ba69-7122f6f5fc4e)
 
 
+<br>
+Closeup image of one of the 538nm cavities
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/075ca3d7-5d0a-4677-8121-73a194b2734e)
 
 
 
-
-GreyPoupon10.oas
-
-
-Design parameters, there are 6 designs in this file
-
-
-
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/e991b6ca-5f78-44cb-b526-378f2530a6a0)
-
-
-
-
-
-GreyPoupon11.oas
-
-
-Design parameters, there are 6 designs in this file
-
-
-
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/4664f140-3876-4d8d-948d-df81809366e1)
 
 
 
