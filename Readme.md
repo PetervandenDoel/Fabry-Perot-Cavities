@@ -9,6 +9,7 @@ The goal of this project was to observe the effect of slight bragg grating perio
 Grating period: 271nm, 272nm, 273nm<br>
 Number of grating periods: 20, 50<br>
 Cavity length: 518nm, 538nm, 558nm, 100μm, 3393μm <br>
+Grating corrugation width: 50nm <br>
 
 Different numbers of grating periods(reflectivity) were frbaicated to see strong effects(50nm), but still see results if cavities are too lossy(20nm). Different cavity lengths were fabricated to see if the center frequency shift could be observed at vastly different free spectral ranges  
 
