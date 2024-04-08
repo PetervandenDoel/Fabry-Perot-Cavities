@@ -1,4 +1,5 @@
-This project was fabriacated in the SIEPIC ELEC413 ebl run, files were named after my edx username
+This project was fabriacated in the SIEPIC ELEC413 ebl run, files were named after my edx username.
+**OSA spectra are currently being analyzed**
 
 
 The goal of this project was to observe the effect of slight bragg grating period changes on the performance of 1310nm TE fabry perot filters used in semiconductor lasers. Different bragg grating periods, reflecitvities, were tested in every possible combination of these parameters.
