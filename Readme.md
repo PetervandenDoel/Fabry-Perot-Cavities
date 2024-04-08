@@ -17,8 +17,13 @@ These are the contents of the klayout design files
 
 **TEST SETUP**
 Grating couplers are placed precisely 127μm apart from one another to allow for automated testing with fiber arrays. 1310nm light is injected into the middle grating coupler, then transmission is measured on the top and reflection is measured on the bottom. This allows for transmission, reflection, and loss of the cavity to be measured with an optical spectrum analyzer
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/e3e46e81-c16b-4841-918a-f85e7ef44bc1)
+Reflections are channeled back into the reflection grating coupler by a Y branch on the input path
 
+
+
+
+
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/f15a248b-7a59-4660-b82f-1f8a27d56cbf)
 
 
 
