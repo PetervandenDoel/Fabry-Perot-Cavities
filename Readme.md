@@ -96,7 +96,7 @@ Design parameters
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/eb08cb01-f29b-4c6d-b6b2-55c5ef303093)
 
 
-
+The IC layouts of these 3 files all look like this
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/45c6f4bb-ca50-4d9d-ba69-7122f6f5fc4e)
 
