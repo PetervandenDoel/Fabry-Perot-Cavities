@@ -16,7 +16,7 @@ Different numbers of grating periods(reflectivity) were frbaicated to see strong
 These are the contents of the klayout design files
 
 **TEST SETUP**
-Grating couplers are placed precisely 127μm apart from one another to allow for automated testing with fiber arrays. 1310nm light is injected into the middle grating coupler, then transmission is measured on the top and reflection is measured on the bottom. This allows for transmission, reflection, and loss of the cavity to be measured with an optical spectrum analyzer.<br>
+Grating couplers are placed precisely 127μm apart from one another to allow for automated testing with fiber arrays. 1310nm light is injected into the middle grating coupler, then transmission is measured on the top and reflection is measured on the bottom.<br> This allows for transmission, reflection, and loss of the cavity to be measured with an optical spectrum analyzer.<br>
 Reflections are channeled back into the reflection grating coupler by a Y branch on the input path
 
 
