@@ -24,7 +24,7 @@ Reflections are channeled back into the reflection grating coupler by a Y branch
 
 
 
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/f15a248b-7a59-4660-b82f-1f8a27d56cbf)
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/e2748549-780d-4a5c-a020-f49556d65818)
 
 
 **Individual designs**  
