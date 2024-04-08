@@ -29,6 +29,9 @@ Cavity length	Bragg grating period	# periods
 
 GreyPoupon2.oas
 
+This design was made simply to capture an SEM image of a funny drawing and because there was extra space on the die left at the last minute
+
+
 Design parameters 
 
 
