@@ -31,7 +31,7 @@ Reflections are channeled back into the reflection grating coupler by a Y branch
 **Individual designs**  
 
 
-GreyPoupon.oas
+Filename: GreyPoupon.oas
 
 
 There are 6 designs in this file<br>
@@ -48,7 +48,7 @@ These designs are meant to profile the behivour of the FP cavities at a medium f
 
 
 
-GreyPoupon2.oas
+**Filename: GreyPoupon2.oas**
 
 This design was made simply to capture an SEM image of a funny drawing and because there was extra space on the die left at the last minute
 
@@ -63,7 +63,7 @@ Cavity length 3851u	 <br>	Bragg grating period 272n <br> 	# periods 20 <br>
 
 
 
-GreyPoupon3,4,5,6,7,8.oas
+**Filenames: GreyPoupon3,4,5,6,7,8.oas**
 
 Design parameters
 
@@ -84,7 +84,7 @@ The IC layouts of these 6 designs all look like this
 
 
 
-GreyPoupon9,10,11.oas
+**Filenames: GreyPoupon9,10,11.oas**
 
 
 there are 6 designs each of these this files. All the designs are similar in appearance
