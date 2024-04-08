@@ -41,3 +41,45 @@ Cavity length	Bragg grating period	# periods
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/87eb197e-1ead-4209-8638-a5adbd67f348)
 
 
+
+
+GreyPoupon3.oas
+
+
+
+
+
+Cavity length	Bragg grating period	# periods
+3393u	            272n	                20
+
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/3ad2a808-9613-4206-b093-16dedf964846)
+
+
+
+
+
+
+GreyPoupon4.oas
+
+
+
+
+
+Cavity length	Bragg grating period	# periods
+3393u	            271n	                20
+
+
+
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/6e1f7c60-49b3-46ce-8283-6401ff946e03)
+
+
+
+GreyPoupon5.oas
+
+
+
+Cavity length	Bragg grating period	# periods
+3393u	            273n	                20
+
+
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/890ebaae-a704-45e5-ad97-5b5e6c9506bc)
