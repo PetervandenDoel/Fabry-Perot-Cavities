@@ -11,7 +11,7 @@ These are the contents of the klayout design files
 GreyPoupon.oas
 
 
-Design parameters
+Design parameters, there are 6 designs in this file
 
 Cavity length	Bragg grating period	# periods
 100u	            271n	                20
@@ -23,5 +23,18 @@ Cavity length	Bragg grating period	# periods
 
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/df7e709b-65c9-4c1e-ab62-4f61fdcfabae)
+
+
+
+
+GreyPoupon2.oas
+
+Design parameters 
+
+
+Cavity length	Bragg grating period	# periods
+3851u	            272n	                20
+
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/87eb197e-1ead-4209-8638-a5adbd67f348)
 
 
