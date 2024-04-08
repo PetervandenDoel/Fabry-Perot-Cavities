@@ -13,13 +13,7 @@ GreyPoupon.oas
 
 Design parameters, there are 6 designs in this file
 
-Cavity length	Bragg grating period	# periods
-100u	            271n	                20
-100u	            271n	                50
-100u	            272n	                20  
-100u	            272n	                50
-100u	            273n	                20
-100u	            273n	                50
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/5104ea08-d751-4376-aa18-53d6caca0bf8)
 
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/df7e709b-65c9-4c1e-ab62-4f61fdcfabae)
@@ -43,14 +37,14 @@ Cavity length	Bragg grating period	# periods
 
 
 
-GreyPoupon3.oas
+GreyPoupon3,4,5,6,7,8.oas
+
+Design parameters
+
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/e62e0e45-5ae7-46e5-afff-8d7f88cad0e3)
 
 
-
-
-
-Cavity length	Bragg grating period	# periods
-3393u	            272n	                20
+The IC layouts of these 6 designs all look like this
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/3ad2a808-9613-4206-b093-16dedf964846)
 
@@ -58,77 +52,6 @@ Cavity length	Bragg grating period	# periods
 
 
 
-
-GreyPoupon4.oas
-
-
-
-
-
-Cavity length	Bragg grating period	# periods
-3393u	            271n	                20
-
-
-
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/6e1f7c60-49b3-46ce-8283-6401ff946e03)
-
-
-
-GreyPoupon5.oas
-
-
-
-Cavity length	Bragg grating period	# periods
-3393u	            273n	                20
-
-
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/5602e867-9a8d-469f-b5a3-9b996bf1eef6)
-
-
-
-
-
-
-GreyPoupon6.oas
-
-
-
-Cavity length	Bragg grating period	# periods
-3393u	            272n	                50
-
-
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/3cd6d8cc-fd73-410f-802c-b40178beeb44)
-
-
-
-
-GreyPoupon7.oas
-
-
-
-Cavity length	Bragg grating period	# periods
-3393u	            271n	                50
-
-
-
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/e46d017f-c9ac-45a3-b08c-cf6c6e6dc7d1)
-
-
-
-
-
-
-
-GreyPoupon8.oas
-
-
-
-Cavity length	Bragg grating period	# periods
-3393u	            273n	                50
-
-
-
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/9a3d115c-d1a9-48ed-b3f0-f67e2ffa94c4)
 
 
 
