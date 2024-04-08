@@ -1,6 +1,7 @@
 This project was fabriacated in the SIEPIC ELEC413 ebl run, files were named after my edx username
 
 
+The goal of this project was to observe the effect of slight bragg grating period changes on the performance of 1310nm TE fabry perot cavities. Designs are fabricated with cavities on the order of a quarter wavelength,    
 
 
 
