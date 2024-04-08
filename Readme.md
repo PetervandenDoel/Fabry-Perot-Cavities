@@ -100,8 +100,10 @@ Design parameters
 
 
 <br>
-Closeup image of one of the 538nm cavities
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/075ca3d7-5d0a-4677-8121-73a194b2734e)
+Closeup image of one of the 538nm cavities<br>
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/347fb8dd-36e4-49cd-8345-b01d1069dced)
+
+
 
 
 
