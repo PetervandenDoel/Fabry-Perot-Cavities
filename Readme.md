@@ -68,7 +68,7 @@ Cavity length 3851u	 <br>	Bragg grating period 272n <br> 	# periods 20 <br>
 Design parameters
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/e62e0e45-5ae7-46e5-afff-8d7f88cad0e3) <br>
-These designs are meant to profile the behivour of the FP cavities at a medium free spectral range  
+These designs are meant to profile the behivour of the FP cavities at a very small free spectral range  
 
 The IC layouts of these 6 designs all look like this
 
@@ -95,7 +95,7 @@ Design parameters
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/8ec9f830-9fb4-408c-98cd-9254f17913e1)
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/eb08cb01-f29b-4c6d-b6b2-55c5ef303093)
 <br>
-These designs are meant to profile the behivour of the FP cavities at a very low free spectral range(on the order of the OSA frequency sweep window size). Because our cavity lengths are on a similar order to the wavelength, there is a significant risk of the main peak in the transmission spectrum not showing up on the optical spectrum analyzer, so three different fraction wavelength cavity lengths were used to improve the chances of one of the designs providing a good frequency response. 
+These designs are meant to profile the behivour of the FP cavities at a very large free spectral range(on the order of the OSA frequency sweep window size). Because our cavity lengths are on a similar order to the wavelength, there is a significant risk of the main peak in the transmission spectrum not showing up on the optical spectrum analyzer due to uncertainties in modelling and the lithography process tolerances. Three different fraction wavelength cavity lengths were used to improve the chances of one of the designs providing a good visible frequency response. 
 
 
 
