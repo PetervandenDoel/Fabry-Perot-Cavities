@@ -1,12 +1,12 @@
-This project was fabriacated in the SIEPIC ELEC413 ebl run, files were named after my edx username.
-**OSA spectra are currently being analyzed. Designs were simulated in Lumerical interconnect to ensure transmission peaks won't be below the OSA noise floor transmission peak shifts would be observable**
+This project was fabriacated in the SIEPIC ELEC413 ebl run, files were named after my edx username.<br>
+**OSA spectra are currently being analyzed. Designs were simulated in Lumerical interconnect to ensure transmission peaks won't be below the OSA noise floor transmission peak shifts would be observable**<br>
 
 
-The goal of this project was to observe the effect of slight bragg grating period changes on the performance of 1310nm TE fabry perot filters used in semiconductor lasers. Different bragg grating periods, reflecitvities, were tested in every possible combination of these parameters.
+The goal of this project was to observe the effect of slight bragg grating period changes on the performance of 1310nm TE fabry perot filters used in semiconductor lasers. Different bragg grating periods, reflecitvities, were tested in every possible combination of these parameters.<br>
 
 Grating period: 271nm, 272nm, 273nm
 Number of grating periods: 20, 50
-Cavity length: 518nm, 538nm, 558nm, 100μm, 3393μm 
+Cavity length: 518nm, 538nm, 558nm, 100μm, 3393μm <br>
 
 Different numbers of grating periods(reflectivity) were frbaicated to see strong effects(50nm), but still see results if cavities are too lossy(20nm) 
 
