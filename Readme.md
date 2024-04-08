@@ -63,13 +63,8 @@ GreyPoupon9.oas
 
 Design parameters, there are 6 designs in this file
 
-Cavity length	Bragg grating period	# periods
-538n	              271n	                20
-538n	 	            271n	                50
-538n	 	            272n	                20  
-538n	 	            272n	                50
-538n	 	            273n	                20
-538n	 	            273n	                50
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/b76fe880-b5f6-4246-98d5-ba3727079522)
+
 
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/45c6f4bb-ca50-4d9d-ba69-7122f6f5fc4e)
@@ -84,13 +79,8 @@ GreyPoupon10.oas
 
 Design parameters, there are 6 designs in this file
 
-Cavity length	Bragg grating period	# periods
-518n	              271n	                20
-518n	 	            271n	                50
-518n	 	            272n	                20  
-518n	 	            272n	                50
-518n	 	            273n	                20
-518n	 	            273n	                50
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/8ec9f830-9fb4-408c-98cd-9254f17913e1)
+
 
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/e991b6ca-5f78-44cb-b526-378f2530a6a0)
@@ -104,13 +94,8 @@ GreyPoupon11.oas
 
 Design parameters, there are 6 designs in this file
 
-Cavity length	Bragg grating period	# periods
-558n	              271n	                20
-558n	 	            271n	                50
-558n	 	            272n	                20  
-558n	 	            272n	                50
-558n	 	            273n	                20
-558n	 	            273n	                50
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/eb08cb01-f29b-4c6d-b6b2-55c5ef303093)
+
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/4664f140-3876-4d8d-948d-df81809366e1)
 
