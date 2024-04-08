@@ -32,12 +32,16 @@ Reflections are channeled back into the reflection grating coupler by a Y branch
 GreyPoupon.oas
 
 
-Design parameters, there are 6 designs in this file
+There are 6 designs in this file<br>
+Design parameters
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/5104ea08-d751-4376-aa18-53d6caca0bf8)
+<br>
+These designs are meant to profile the behivour of the FP cavities at a medium free spectral range
 
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/df7e709b-65c9-4c1e-ab62-4f61fdcfabae)
+
 
 
 
@@ -78,12 +82,17 @@ The IC layouts of these 6 designs all look like this
 
 
 
-GreyPoupon9.oas
+GreyPoupon9,10,11.oas
 
 
-Design parameters, there are 6 designs in this file
+there are 6 designs each of these this files. All the designs are similar in appearance
+
+Design parameters 
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/b76fe880-b5f6-4246-98d5-ba3727079522)
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/8ec9f830-9fb4-408c-98cd-9254f17913e1)
+![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/eb08cb01-f29b-4c6d-b6b2-55c5ef303093)
+
 
 
 
@@ -99,8 +108,6 @@ GreyPoupon10.oas
 
 Design parameters, there are 6 designs in this file
 
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/8ec9f830-9fb4-408c-98cd-9254f17913e1)
-
 
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/e991b6ca-5f78-44cb-b526-378f2530a6a0)
@@ -114,7 +121,6 @@ GreyPoupon11.oas
 
 Design parameters, there are 6 designs in this file
 
-![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/eb08cb01-f29b-4c6d-b6b2-55c5ef303093)
 
 
 ![image](https://github.com/PetervandenDoel/Fabry-Perot-Cavities/assets/73015873/4664f140-3876-4d8d-948d-df81809366e1)
