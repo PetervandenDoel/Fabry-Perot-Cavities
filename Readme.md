@@ -1,5 +1,5 @@
 This project was fabriacated in the SIEPIC ELEC413 ebl run, files were named after my edx username.
-**OSA spectra are currently being analyzed**
+**OSA spectra are currently being analyzed. Designs were simulated in Lumerical interconnect to ensure transmission peaks won't be below the OSA noise floor transmission peak shifts would be observable**
 
 
 The goal of this project was to observe the effect of slight bragg grating period changes on the performance of 1310nm TE fabry perot filters used in semiconductor lasers. Different bragg grating periods, reflecitvities, were tested in every possible combination of these parameters.
