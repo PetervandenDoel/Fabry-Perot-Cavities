@@ -7,8 +7,9 @@ Grating period: 271nm, 272nm, 273nm
 Number of grating periods: 20, 50
 Cavity length: 518nm, 538nm, 558nm, 100μm, 3393μm 
 
+Different numbers of grating periods(reflectivity) were frbaicated to see strong effects(50nm), but still see results if cavities are too lossy(20nm) 
 
-All designs were fabricated with in versions with both 20 and 50 bragg grating periods to   Multiple designs were fabricated with cavities on the order of a 0.4 wavelengths, 75 wavelengths, and 2500 wavelengths to see if comperable effects can be observed for responses with widely varying free spectral ranges. All designs were fabriacted in
+Differetn cavity lengths were fabricated to see if the center frequency shift could be observed at vastly different free spectral ranges  
 
 
 These are the contents of the klayout design files
