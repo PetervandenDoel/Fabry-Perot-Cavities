@@ -1,4 +1,6 @@
-This project was fabriacated in the SIEPIC ELEC413 ebl run, files were named after my edx username. The y branches, grating couplers, waveguide tapers, and bragg gratings were imported as parameterized components from the SIEPIC EBL Klayout library<br>
+This project was fabriacated in the SIEPIC ELEC413 ebl run, files were named after my edx username. The y branches, grating couplers, waveguide tapers, and bragg gratings were imported as parameterized components from the SIEPIC EBL Klayout library  
+
+
 **OSA spectra are currently being analyzed. Designs were simulated in Lumerical interconnect to ensure transmission peaks won't be below the OSA noise floor transmission peak shifts would be observable**<br>
 
 
