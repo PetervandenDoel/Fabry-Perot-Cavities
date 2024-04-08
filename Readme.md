@@ -8,9 +8,7 @@ Grating period: 271nm, 272nm, 273nm
 Number of grating periods: 20, 50
 Cavity length: 518nm, 538nm, 558nm, 100μm, 3393μm <br>
 
-Different numbers of grating periods(reflectivity) were frbaicated to see strong effects(50nm), but still see results if cavities are too lossy(20nm) 
-
-Different cavity lengths were fabricated to see if the center frequency shift could be observed at vastly different free spectral ranges  
+Different numbers of grating periods(reflectivity) were frbaicated to see strong effects(50nm), but still see results if cavities are too lossy(20nm). Different cavity lengths were fabricated to see if the center frequency shift could be observed at vastly different free spectral ranges  
 
 
 These are the contents of the klayout design files
