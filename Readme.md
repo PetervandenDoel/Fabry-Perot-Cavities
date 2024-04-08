@@ -1,8 +1,14 @@
 This project was fabriacated in the SIEPIC ELEC413 ebl run, files were named after my edx username
 
 
-The goal of this project was to observe the effect of slight bragg grating period changes on the performance of 1310nm TE fabry perot cavities. Designs are fabricated with cavities on the order of a quarter wavelength,    
+The goal of this project was to observe the effect of slight bragg grating period changes on the performance of 1310nm TE fabry perot filters used in semiconductor lasers. Different bragg grating periods, reflecitvities, were tested in every possible combination of these parameters.
 
+Grating period: 271nm, 272nm, 273nm
+Number of grating periods: 20, 50
+Cavity length: 518nm, 538nm, 558nm, 100μm, 3393μm 
+
+
+All designs were fabricated with in versions with both 20 and 50 bragg grating periods to   Multiple designs were fabricated with cavities on the order of a 0.4 wavelengths, 75 wavelengths, and 2500 wavelengths to see if comperable effects can be observed for responses with widely varying free spectral ranges. All designs were fabriacted in
 
 
 These are the contents of the klayout design files
