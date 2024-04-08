@@ -1,7 +1,7 @@
 Fabry perot filters are a kind of photonic narroband filter use for constraining the lasing frequency of semiconductor lasers. The goal of this project is to fabricate and characterize the frequency response of 31 different silicon perot cavities. 
 
 
-This project was fabriacated in the 2024 SIEPIC open ebl run https://github.com/SiEPIC/openEBL-2024-02, files were named after my edx username. The y branches, grating couplers, waveguide tapers, and bragg gratings were imported as parameterized components from the SIEPIC EBL Klayout library  
+This project was fabriacated in the 2024 SIEPIC open ebl lithography run https://github.com/SiEPIC/openEBL-2024-02, files were named after my edx username. The y branches, grating couplers, waveguide tapers, and bragg gratings were imported as parameterized components from the SIEPIC EBL Klayout library  
 
 
 **OSA spectra are currently being analyzed. Designs were simulated in Lumerical interconnect to ensure that transmission peaks won't be below the OSA noise floor and transmission peak shifts would be observable within the OSA frequency sweep window**<br>
