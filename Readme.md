@@ -1,7 +1,7 @@
 This project was fabriacated in the 2024 SIEPIC open ebl run https://github.com/SiEPIC/openEBL-2024-02, files were named after my edx username. The y branches, grating couplers, waveguide tapers, and bragg gratings were imported as parameterized components from the SIEPIC EBL Klayout library  
 
 
-**OSA spectra are currently being analyzed. Designs were simulated in Lumerical interconnect to ensure that transmission peaks won't be below the OSA noise floor and transmission peak shifts would be observable witin the OSA frequency sweep window**<br>
+**OSA spectra are currently being analyzed. Designs were simulated in Lumerical interconnect to ensure that transmission peaks won't be below the OSA noise floor and transmission peak shifts would be observable within the OSA frequency sweep window**<br>
 
 
 The goal of this project was to observe the effect of slight bragg grating period changes on the performance of 1310nm TE fabry perot filters used in semiconductor lasers. Different bragg grating periods, reflecitvities, and cavity lengths were tested in every possible combination of these parameters.<br>
